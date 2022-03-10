@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drives", "Drives\Drives.csproj", "{BD26C2C1-F406-47C5-8D19-8C4CC731CD6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryAndDirectiryInfo", "DirectoryAndDirectiryInfo\DirectoryAndDirectiryInfo.csproj", "{DCE41473-E7EA-4100-8779-6169B4D56B89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD26C2C1-F406-47C5-8D19-8C4CC731CD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD26C2C1-F406-47C5-8D19-8C4CC731CD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD26C2C1-F406-47C5-8D19-8C4CC731CD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
