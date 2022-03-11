@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drives", "Drives\Drives.csproj", "{BD26C2C1-F406-47C5-8D19-8C4CC731CD6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drives", "Drives\Drives.csproj", "{BD26C2C1-F406-47C5-8D19-8C4CC731CD6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryAndDirectiryInfo", "DirectoryAndDirectiryInfo\DirectoryAndDirectiryInfo.csproj", "{DCE41473-E7EA-4100-8779-6169B4D56B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectoryAndDirectiryInfo", "DirectoryAndDirectiryInfo\DirectoryAndDirectiryInfo.csproj", "{DCE41473-E7EA-4100-8779-6169B4D56B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAndFileInfo", "FileAndFileInfo\FileAndFileInfo.csproj", "{F2A37385-09C7-415D-9599-EECA37A68A8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCE41473-E7EA-4100-8779-6169B4D56B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A37385-09C7-415D-9599-EECA37A68A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A37385-09C7-415D-9599-EECA37A68A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A37385-09C7-415D-9599-EECA37A68A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A37385-09C7-415D-9599-EECA37A68A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
