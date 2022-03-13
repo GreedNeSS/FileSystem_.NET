@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectoryAndDirectiryInfo",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileAndFileInfo", "FileAndFileInfo\FileAndFileInfo.csproj", "{F2A37385-09C7-415D-9599-EECA37A68A8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreamExample", "FileStreamExample\FileStreamExample.csproj", "{00F095FE-B003-42B7-B77B-284A7BD65C63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStreamExample", "FileStreamExample\FileStreamExample.csproj", "{00F095FE-B003-42B7-B77B-284A7BD65C63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriterAndStreamReader", "StreamWriterAndStreamReader\StreamWriterAndStreamReader.csproj", "{172ABA8B-A5FC-4131-B486-C4FF0DE5A380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamWriterAndStreamReader", "StreamWriterAndStreamReader\StreamWriterAndStreamReader.csproj", "{172ABA8B-A5FC-4131-B486-C4FF0DE5A380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryWriterAndBinaryReader", "BinaryWriterAndBinaryReader\BinaryWriterAndBinaryReader.csproj", "{886A92FC-CE6D-457B-A7B6-FB2B8F695DE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryWriterAndBinaryReader", "BinaryWriterAndBinaryReader\BinaryWriterAndBinaryReader.csproj", "{886A92FC-CE6D-457B-A7B6-FB2B8F695DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressingAndDecompresingFiles", "CompressingAndDecompresingFiles\CompressingAndDecompresingFiles.csproj", "{FBB1628F-A93D-4D76-A2E7-CB2F8428E883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompressingAndDecompresingFiles", "CompressingAndDecompresingFiles\CompressingAndDecompresingFiles.csproj", "{FBB1628F-A93D-4D76-A2E7-CB2F8428E883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryWatcher", "DirectoryWatcher\DirectoryWatcher.csproj", "{C712512E-5959-48A0-BB00-7A62D3A48F88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FBB1628F-A93D-4D76-A2E7-CB2F8428E883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBB1628F-A93D-4D76-A2E7-CB2F8428E883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBB1628F-A93D-4D76-A2E7-CB2F8428E883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C712512E-5959-48A0-BB00-7A62D3A48F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C712512E-5959-48A0-BB00-7A62D3A48F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C712512E-5959-48A0-BB00-7A62D3A48F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C712512E-5959-48A0-BB00-7A62D3A48F88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
